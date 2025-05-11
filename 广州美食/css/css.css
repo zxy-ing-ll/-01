@@ -1,0 +1,17 @@
+@charset "utf-8";
+*{margin:0;padding:0;}
+body{font-size:14px;color:#6e6e6e;background: url(../images/bj.jpg) top center fixed;}
+a,a:link,a:visited{color:#7f0d0d;text-decoration:none; }
+a:hover{text-decoration: underline;}
+.banner{width:980px;margin:auto;}
+.banner img{width:100%;}
+.gundong{width:980px;height:50px;line-height:50px;background:#dd9137;margin:auto;margin-bottom:10px;text-align:center;font-size:28px;color:#ffffff;}
+.nav{width:980px; height:60px;line-height:60px; background-color:#CCCCCC; margin:10px auto; text-align:center; }
+.nav a{ font-size:24px; margin:10px;}
+.nav a:hover{ color:#F00; text-decoration:none;}
+.main{width:980px; height:auto; background:#ffffff; margin:auto;;padding-top:50px;padding-bottom:50px;}
+.main .cont{width:800px;margin:auto;}
+.main .cont p{padding:10px;font-size:16px;color:333;text-indent:32px;line-height:28px;}
+.main .cont img{width:100%;height:auto;}
+.main video{display:block;margin:auto;}
+.foot{width:980px;height:50px;line-height:50px;background:#fff;margin:auto;text-align:center;margin-top:30px;font-size:20px;color:#000;}
